@@ -5,8 +5,7 @@
 
         <title>HI JOWA KONG TAMOURUROT</title>
     </head>
-    <body>
-        <img src="IMG_20200916_161249.jpg" style="width:170px;height:260px"> 
+    <body> 
         <h2> 
             MUSTA NA
         </h2>
@@ -26,7 +25,6 @@
             <li>Nakainis</li>
             <li>Pikunin</li>
             <li>Mapang asar</li>
-            
-      
+         </ul>
     </body>
 </html>
